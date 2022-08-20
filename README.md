@@ -1,9 +1,17 @@
 <h1 align="center">Hi 👋, I'm Julio Bazalar</h1>
 <h3 align="center">A passionate full stack developer from Perú</h3>
 
+- 🔭 I’m currently working on [Get that home](https://github.com/tinyhosmarcos/get_that_home)
+
 - 🌱 I’m currently learning **next.js**
 
+- 💬 Ask me about **react and ruby**
+
 - 📫 How to reach me **jbzuloaga@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/drive/folders/1isOP-vK5OjWKi07BOsE57e99UlVkjUJg?usp=sharing](https://drive.google.com/drive/folders/1isOP-vK5OjWKi07BOsE57e99UlVkjUJg?usp=sharing)
+
+- ⚡ Fun fact **I have a bachelor's degree in electronic engineering but changed my career to web developer. I really love and want to have a cat.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
