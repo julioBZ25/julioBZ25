@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on [Portafolio website](https://github.com/julioBZ25/next-portafolio)
 
-- 🌱 I’m currently learning **next.js**
+- 🌱 I’m currently working as a **Angular Developer**
 
-- 💬 Ask me about **react and ruby**
+- 💬 Ask me about **angular, react or ruby**
 
 - 📫 How to reach me **jbzuloaga@gmail.com**
 
