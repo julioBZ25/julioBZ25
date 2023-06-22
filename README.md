@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Julio Bazalar</h1>
 <h3 align="center">A passionate full stack developer from Perú</h3>
 
-- 🌱 I’m currently working as a **Angular Developer**
+- 🌱 I’m currently working as a **Frontend Developer**
 
 - 💬 Ask me about **Angular, React and Ruby**
 
