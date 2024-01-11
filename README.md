@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on [my personal website](https://next-web-bice-eight.vercel.app/)
 
-- 💬 Ask me about **Angular, React and Ruby**
+- 💬 Ask me about **React**
 
-- 📫 How to reach me **jbzuloaga@gmail.com**
+- 📫 How to reach me **jbzuloaga@hotmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1isOP-vK5OjWKi07BOsE57e99UlVkjUJg?usp=sharing](https://drive.google.com/drive/folders/1isOP-vK5OjWKi07BOsE57e99UlVkjUJg?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/drive/folders/1isOP-vK5OjWKi07BOsE57e99UlVkjUJg?usp=sharing](https://drive.google.com/drive/folders/1nEfRBldcY2UoGx6z_mtSVcwMIWsew8Ws?usp=drive_link)
 
 - ⚡ Fun fact **I have a bachelor's degree in electronic engineering but changed my career to web developer. I really love and want to have a cat.**
 
